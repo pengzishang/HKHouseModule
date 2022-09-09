@@ -1,0 +1,16 @@
+PODS:
+  - HKHouseModule (0.1.0)
+
+DEPENDENCIES:
+  - HKHouseModule (from `../`)
+
+EXTERNAL SOURCES:
+  HKHouseModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HKHouseModule: d514016fc7a3e5b3b64c034f7ed41e313e4fe0c5
+
+PODFILE CHECKSUM: b102d9e9a32ea0533f4317b8b7cf80c481125358
+
+COCOAPODS: 1.11.3

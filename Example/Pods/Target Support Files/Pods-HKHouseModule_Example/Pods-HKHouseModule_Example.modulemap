@@ -1,0 +1,6 @@
+framework module Pods_HKHouseModule_Example {
+  umbrella header "Pods-HKHouseModule_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

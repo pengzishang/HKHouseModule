@@ -1,0 +1,6 @@
+framework module HKHouseModule {
+  umbrella header "HKHouseModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
